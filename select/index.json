@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Baby Be Mine",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-24T13:39:58.942983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Baby_Be_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Baby_Be_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/03_Baby_Be_Mine_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Baby_Be_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Blackstreet",
+      "has_synced": false,
+      "path": "select/05_Baby_Be_Mine_Blackstreet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "James Ingram",
+      "has_synced": false,
+      "path": "select/06_Baby_Be_Mine_James_Ingram.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Easy Star All-Stars",
+      "has_synced": false,
+      "path": "select/07_Baby_Be_Mine_Easy_Star_All-Stars.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Easy Star All‐Stars",
+      "has_synced": false,
+      "path": "select/08_Baby_Be_Mine_Easy_Star_All‐Stars.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "The Jelly Beans",
+      "has_synced": false,
+      "path": "select/09_Baby_Be_Mine_The_Jelly_Beans.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Baby_Be_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Be Mine",
+      "artist": "Blackstreet",
+      "has_synced": true,
+      "path": "select/11_Baby_Be_Mine_Blackstreet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby, Be Mine",
+      "artist": "Miki Howard",
+      "has_synced": false,
+      "path": "select/12_Baby,_Be_Mine_Miki_Howard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby Be Mine",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_Be_Mine_Michael_Jackson.txt"
+    }
+  ]
+}
